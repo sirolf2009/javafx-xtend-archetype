@@ -5,7 +5,7 @@ import javafx.scene.Scene
 import javafx.scene.control.Label
 import javafx.stage.Stage
 
-class RXJava2Driver extends Application {
+class App extends Application {
 
 	def static void main(String[] args) {
 		launch(args)
